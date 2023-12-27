@@ -24,9 +24,9 @@ const data = {
         {
             "id": "3769ed7c-be69-443d-978b-302edad4dc41",
             "info": {
-                "name": "Vespia OÜ",
+                "name": "CARS OU",
                 "countryCode": "EE",
-                "registrationCode": "14072635",
+                "registrationCode": "14521252",
                 "isCorporate": true,
                 "share": {}
             },
@@ -48,7 +48,7 @@ const data = {
         {
             "id": "aa859523-583d-4625-92b2-2a44d79f4c96",
             "info": {
-                "name": 'Julia Ront',
+                "name": 'Kris',
                 "registrationCode": "46903300337",
                 "isCorporate": false,
                 "country": "Estonia",
@@ -73,7 +73,7 @@ const data = {
         {
             "id": "0c063a8d-4ee7-46dd-a4a7-43a771f961b3",
             "info": {
-                "name": 'Plug & Play Germany GmbH',
+                "name": 'Germany GmbH',
                 "registrationCode": "46903100325",
                 "isCorporate": false,
                 "share": {
@@ -95,7 +95,7 @@ const data = {
         {
             "id": "8f1a750e-ba77-471c-8579-a0d50b7b51da",
             "info": {
-                "name": 'Icebreaker Fund II Ky-le',
+                "name": 'Icebreaker',
                 "registrationCode": "46903300337",
                 "isCorporate": false,
                 "country": "Estonia",
@@ -119,7 +119,7 @@ const data = {
             "id": "fd40b190-3f7c-4778-856e-be2ecde3b862",
             "info": {
                 "name":
-                    "Anton Vedešin",
+                    "Karlos",
                 "registrationCode": "46903300337",
                 "isCorporate": false,
                 "share": {
@@ -146,8 +146,8 @@ const data = {
             "info": {
                 "country": "Estonia",
                 "isCorporate": false,
-                "name": "Julia Ront",
-                "registrationCode": "49202210286",
+                "name": "Allaba",
+                "registrationCode": "1241242142",
                 "share": {
                     "currency": "EUR",
                     "size": 2500,
@@ -169,8 +169,8 @@ const data = {
             "info": {
                 "country": "Estonia",
                 "isCorporate": false,
-                "name": "Anton Vedešin",
-                "registrationCode": "49202210286",
+                "name": "Pain",
+                "registrationCode": "12125125252",
                 "share": {}
             },
             "relation": [{
@@ -188,7 +188,7 @@ const data = {
             "info": {
                 "country": "Estonia",
                 "isCorporate": false,
-                "name": 'Julia Ront',
+                "name": 'Rolan',
                 "registrationCode": "49202210286",
                 "share": {
                     "currency": "EUR",
@@ -212,8 +212,8 @@ const data = {
             "info": {
                 "country": "Estonia",
                 "isCorporate": false,
-                "name": 'Julia Ront',
-                "registrationCode": "49202210286",
+                "name": 'Andrey',
+                "registrationCode": "124124",
                 "share": {}
             },
             "relation": [{
@@ -229,8 +229,8 @@ const data = {
         "info": {
             countryCode: "EE",
             isCorporate: true,
-            name: "Vespia OÜ",
-            registrationCode: "16017942",
+            name: "Cars OÜ",
+            registrationCode: "152512522",
         },
         "idMonitoring": false,
         "entityChecks": [
