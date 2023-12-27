@@ -1,6 +1,6 @@
 import React from "react";
 import Tree from "react-d3-tree";
-import { createOrgChartNode } from "../data/test";
+import { createOrgChartNode } from "./data/test";
 import { useCenteredTree } from "./helpers";
 import logo from './vespia.svg';
 
