@@ -254,7 +254,7 @@ const renderForeignObjectNode = ({
                                  }) => (
     <g>
       <rect fill="#ffff" ry={10} width={250} height={100} x={-120} y={0}></rect>
-        <image href={nodeDatum.logo} width="200" height="100" x='-90' y="-3"
+        <image href={nodeDatum.logo} width="230" height="100" x='-110' y="0"
         />
       {/* `foreignObject` requires width & height to be explicitly set. */}
       <foreignObject {...foreignObjectProps}>
